@@ -1,0 +1,41 @@
+# Proyectos en Arduino
+
+## 1. Luz Inteligente
+https://www.tinkercad.com/things/2xTw0VeQWEP-unidad-4-actividad-1
+
+El proyecto es una lámpara inteligente, que tiene dos modos de funcionamiento: 
+Un modo que trabaja según la luz disponible y otro modo que activa la iluminación si detecta movimiento (se apaga transcurridos 5 segundos). 
+Se cambia de un modo a otro por un interruptor. 
+Además, el color del LED va a variar según la temperatura encontrada. 
+Si el ambiente está a menos de 10° C, el color de la lámpara es azul; si está entre 10° C y 28° C, el color de la lámpara será verde; y si nos encontramos a más de 28° C, el color de la lámpara será rojo. 
+Este color se aplica para los dos modos.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+## 2. Chaleco ciclistas
+https://www.tinkercad.com/things/7yKaz4wSbvy-chaleco-ciclistas
+
+Video: https://youtu.be/16ixdMozvI0
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+## 3. Pastillero
+https://www.tinkercad.com/things/iPIuySRlmwC-pastillero
+
+Video: https://youtu.be/FWGMYCpaVEI
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+## 4. Sistema de paneles solares
+https://www.tinkercad.com/things/lLMjR5FrJ5E-proyecto-final
+
+El proyecto se trata de un circuito para direccionar un panel solar. 
+Hay dos servomotores orientados Este-Oeste, uno, y Norte-Sur, el segundo. 
+Luego, se encuentran las fotorresistencias emplazadas en cada punto cardinal (deberían ir en cada punta del panel solar) que reciben luz según la posición del sol. 
+A la izquierda del circuito mencionado arriba hay una fotorresistencia asociada a dos LEDS. 
+El color rojo indica que no hay percepción de luz, por lo que no está en funcionamiento el sistema de movimiento del panel solar. 
+El LED verde indica que el sistema de carga está activado. 
+Además, el LED blanco representa a la luz que pertenece a una casa y está asociado a un potenciómetro que permite regular la cantidad de energía que se consume.
+Finalmente, en caso de que no se regule el panel solar por las fotorresistencias, está la opción de hacerlo por un segundo juego de potenciómetros (uno mueve el servomotor Este-Oeste, y la perilla de la derecha mueve el servomotor Norte-Sur). 
+Los ángulos se corresponden con el ángulo de giro, así como ocurre con la zona donde se recibe más luz en el sistema de fotorresistencias. 
+Para activar el circuito de movimiento manual, se debe utilizar el switch que se encuentra con ellos.
